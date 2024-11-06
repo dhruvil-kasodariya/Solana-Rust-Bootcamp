@@ -12,6 +12,8 @@ Out of the total, 1,394 validators (58.72%) are active and fully participating i
 
 
 ## 2) What is special about this block?
+### Genesis Block:
+Block 0 is Solana's very first block, meaning it represents the beginning of the Solana blockchain. It's historically significant because it marks the point when the Solana network was launched and became operational.
 ## 3) What is special about this address
 ## 4) What is this transaction doing ?
 ## 5) What is the largest balance you can find in an account ?
