@@ -1,6 +1,6 @@
 # Exercise 2
 ## 1) How many validators are there currently ?
-
+at 6th November 2024
 ### Total Validators:
 There are currently 2,374 validators on the Solana network. Validators are responsible for validating transactions and maintaining the blockchain’s integrity.
 
