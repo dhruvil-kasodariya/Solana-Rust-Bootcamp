@@ -28,3 +28,18 @@ This transaction is a burn transaction that removes a substantial quantity of SO
 
 ## 5) What is the largest balance you can find in an account ?
 ## 6) What advantages will the end user see when using Solana compared to other blockchains ?
+
+### High Speed 
+Solana handles thousands of transactions per second, offering near-instant finality. This speed is ideal for applications needing quick interaction, like DeFi and gaming.
+
+### Low Fees 
+Transaction fees on Solana are extremely low, often less than a cent, making it affordable and accessible for users, even during peak network times.
+
+### Scalability with Proof of History (PoH)
+Solana’s PoH combined with Proof of Stake (PoS) allows for efficient scaling, maintaining speed and low costs even with high demand.
+
+### User Experience
+Solana's minimal lag and high throughput give users a smooth, almost web-like experience.
+
+### Expanding Ecosystem 
+A growing range of dApps and services on Solana enables seamless movement within its ecosystem, enhancing utility and access for users.
