@@ -12,7 +12,7 @@ Out of the total, 1,394 validators (58.72%) are active and fully participating i
 
 
 ## 2) What is special about this block?
-What is special about this address
-What is this transaction doing ?
-What is the largest balance you can find in an account ?
-What advantages will the end user see when using Solana compared to other blockchains ?
+## 3) What is special about this address
+## 4) What is this transaction doing ?
+## 5) What is the largest balance you can find in an account ?
+## 6) What advantages will the end user see when using Solana compared to other blockchains ?
