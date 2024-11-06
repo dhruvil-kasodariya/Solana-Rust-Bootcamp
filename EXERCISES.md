@@ -24,5 +24,7 @@ The Incinerator is a special account used in Solana for burning tokens. When tok
 
 This address might be used by applications or the Solana protocol itself to manage token supply by permanently removing tokens from circulation.
 ## 4) What is this transaction doing ?
+This transaction is a burn transaction that removes a substantial quantity of SOL from circulation. By transferring SOL to the Incinerator, these tokens are destroyed.
+
 ## 5) What is the largest balance you can find in an account ?
 ## 6) What advantages will the end user see when using Solana compared to other blockchains ?
