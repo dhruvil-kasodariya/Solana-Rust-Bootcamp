@@ -27,6 +27,8 @@ This address might be used by applications or the Solana protocol itself to mana
 This transaction is a burn transaction that removes a substantial quantity of SOL from circulation. By transferring SOL to the Incinerator, these tokens are destroyed.
 
 ## 5) What is the largest balance you can find in an account ?
+Solana uses a 64-bit unsigned integer (uint64) to store token balances in SPL token accounts. This means the maximum possible balance is (2^64) - 1, or 18,446,744,073,709,551,615 smallest units (lamports for SOL). In terms of SOL, this maximum balance is 18.446 billion SOL.
+
 ## 6) What advantages will the end user see when using Solana compared to other blockchains ?
 
 ### High Speed 
