@@ -49,3 +49,18 @@ Solana's minimal lag and high throughput give users a smooth, almost web-like ex
 
 ### Expanding Ecosystem 
 A growing range of dApps and services on Solana enables seamless movement within its ecosystem, enhancing utility and access for users.
+
+# Exercise 3
+
+## install solona in system
+
+### Mac / Linux
+``sh -c "$(curl -sSfL https://release.anza.xyz/stable/install)"``
+
+### Windows
+Open Command Prompt as an administrator and run
+``cmd /c "curl -sSfL https://release.anza.xyz/stable/install | sh"``
+
+### check solona version
+``solana --version``
+
